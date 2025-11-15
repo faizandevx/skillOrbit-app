@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json.schemastore.org/package",
+  "name": "skillorbit-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.3",
+    "@react-email/render": "^1.2.3",
+    "@types/react-slick": "^0.23.13",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.12",
+    "lucide-react": "^0.542.0",
+    "next": "15.5.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-icons": "^5.5.0",
+    "react-slick": "^0.31.0",
+    "resend": "^6.1.0",
+    "slick-carousel": "^1.8.1",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "daisyui": "^5.1.8",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "15.5.2",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^4.0.0",
+    "tw-animate-css": "^1.3.8",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,764 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Web Development – From Beginner to Full Stack Developer",
+        "instructor": "Full Stack Experts",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "Web Development",
+        "level": "Beginner to Advanced",
+        "duration": "2 months",
+        "lessons": 40,
+        "students": 0,
+        "rating": 0.0,
+        "reviews": 0,
+        "price": 19000.00,
+        "discountPrice": 17000.00,
+        "language": "English/Urdu",
+        "certificate": true,
+        "thumbnail": "/content/courses/web-dev-fullstack.jpg",
+        "classTimings": "Saturday & Sunday — 2:00 PM to 5:00 PM + 1 Online Session (Weekday)",
+        "description": "Transform from beginner to job-ready full stack developer. Learn HTML, CSS, JavaScript, React, Node.js, and MongoDB while building real-world projects and preparing for the job market.",
+        "whatYouWillLearn": [
+          "Master HTML5, CSS3, and modern JavaScript (ES6+)",
+          "Build responsive websites with Flexbox and Grid",
+          "Develop dynamic UIs with React.js and Hooks",
+          "Create secure backend APIs with Node.js & Express",
+          "Work with MongoDB and Mongoose for database management",
+          "Implement user authentication with JWT",
+          "Deploy full-stack applications"
+        ],
+        "requirements": [
+          "Basic computer skills",
+          "No prior coding experience required",
+          "Laptop with internet access"
+        ],
+        "syllabus": [
+          {
+            "week": "1-2",
+            "title": "Web Fundamentals",
+            "topics": [
+              "HTML5 & Semantic Web",
+              "CSS3 & Responsive Design",
+              "JavaScript Basics & DOM Manipulation"
+            ]
+          },
+          {
+            "week": "3-4",
+            "title": "Frontend Development",
+            "topics": [
+              "Advanced CSS (Flexbox, Grid)",
+              "Modern JavaScript (ES6+)",
+              "Introduction to React"
+            ]
+          },
+          {
+            "week": "5-6",
+            "title": "React & State Management",
+            "topics": [
+              "React Components & Props",
+              "Hooks & Context API",
+              "React Router"
+            ]
+          },
+          {
+            "week": "7-8",
+            "title": "Backend & Deployment",
+            "topics": [
+              "Node.js & Express",
+              "MongoDB & Mongoose",
+              "Authentication & Deployment"
+            ]
+          }
+        ],
+        "projects": [
+          "Responsive Portfolio Website",
+          "E-commerce Frontend with React",
+          "Full Stack Blog with User Authentication",
+          "Capstone Project: Full Stack Application"
+        ],
+        "bonusContent": {
+          "dataStructures": "Basics of Data Structures & Algorithms",
+          "nextjs": "Introduction to Next.js Full Stack Framework",
+          "gitWorkflow": "Professional Git & GitHub Workflow"
+        },
+        "feeStructure": {
+          "monthly": 9500,
+          "total": 19000,
+          "currency": "PKR",
+          "installments": true,
+          "installmentDetails": "Two monthly installments of 9,500 PKR",
+          "discountAvailable": true,
+          "discountDetails": "2,000 PKR discount on full payment (17,000 PKR total)"
+        },
+        "benefits": [
+          "Become a full stack developer in just 2 months",
+          "Build a professional portfolio of real projects",
+          "Learn in-demand web technologies",
+          "Get job-ready with interview preparation",
+          "Lifetime access to course materials and updates"
+        ],
+        "careerSupport": {
+          "portfolioReview": true,
+          "resumeWorkshop": true,
+          "mockInterviews": true,
+          "jobPlacementAssistance": true,
+          "freelanceGuidance": true
+        }
+      },
+      {
+        "id": 2,
+        "title": "COMET – Computer Operations & Modern Essential Tools",
+        "instructor": "SkillOrbit Team",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "Computer Basics",
+        "level": "Beginner",
+        "duration": "2 months",
+        "lessons": 32,
+        "students": 0,
+        "rating": 0.0,
+        "reviews": 0,
+        "price": 16000.00,
+        "discountPrice": 8000.00,
+        "language": "English/Urdu",
+        "certificate": true,
+        "thumbnail": "/content/courses/comet.jpg",
+        "description": "COMET is designed for beginners and students who want to build strong digital foundations. From computer basics to essential modern tools, this course prepares you for education, freelancing, and the job market.",
+        "whatYouWillLearn": [
+          "Master Computer Basics – Hardware, Software & Operating Systems",
+          "Achieve typing mastery with Speed & Accuracy Practice",
+          "Become proficient in Microsoft Office Suite (Word, PowerPoint, Excel)",
+          "Learn Canva & CapCut for Basic Graphic Design & Editing",
+          "Professional Internet & Email Usage & Safety",
+          "Leverage AI Tools & Master Prompt Writing",
+          "Gain Introduction to Graphic Design & E-Commerce",
+          "Understand Web & Android Development Roadmaps",
+          "Enhance Communication Skills & Career Readiness"
+        ],
+        "requirements": [
+          "No prior experience required",
+          "Basic understanding of computers is helpful but not mandatory",
+          "Access to a computer with internet connection"
+        ],
+        "syllabus": [
+          {
+            "week": "1-2",
+            "title": "Computer Fundamentals & Typing",
+            "topics": [
+              "Computer Hardware & Software",
+              "Operating System Basics",
+              "Typing Techniques & Speed Building"
+            ]
+          },
+          {
+            "week": "3-4",
+            "title": "Microsoft Office Suite",
+            "topics": [
+              "Microsoft Word for Documentation",
+              "PowerPoint for Presentations",
+              "Excel for Data Management"
+            ]
+          },
+          {
+            "week": "5-6",
+            "title": "Digital Creativity Tools",
+            "topics": [
+              "Graphic Design with Canva",
+              "Video Editing with CapCut",
+              "Creating Digital Content"
+            ]
+          },
+          {
+            "week": "7-8",
+            "title": "Advanced Digital Skills",
+            "topics": [
+              "AI Tools & Prompt Engineering",
+              "Introduction to Web & Android Development",
+              "Final Portfolio Development"
+            ]
+          }
+        ],
+        "feeStructure": {
+          "monthly": 8000,
+          "total": 16000,
+          "currency": "PKR",
+          "installments": true,
+          "installmentDetails": "Two monthly installments of 8,000 PKR"
+        },
+        "benefits": [
+          "Build a solid IT foundation for education & career",
+          "Get ready for freelancing opportunities with practical tools",
+          "Boost typing speed, MS Office expertise, and digital creativity",
+          "Learn to use modern AI tools to stay ahead in today's world",
+          "Develop confidence, communication skills, and a professional portfolio"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "App Development – Build & Launch Your Own Mobile Apps",
+        "instructor": "Flutter Experts",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "Mobile Development",
+        "level": "Beginner to Advanced",
+        "duration": "2 months",
+        "lessons": 32,
+        "students": 0,
+        "rating": 0.0,
+        "reviews": 0,
+        "price": 19000.00,
+        "discountPrice": 17000.00,
+        "language": "English/Urdu",
+        "certificate": true,
+        "thumbnail": "/content/courses/app-dev.jpg",
+        "classTimings": "Saturday & Sunday — 11:00 AM to 1:20 PM",
+        "description": "This course takes you from beginner to professional in mobile app development using Flutter & Dart. With hands-on practice, real-world projects, and deployment guidance, you'll be ready to create and publish your own apps.",
+        "whatYouWillLearn": [
+          "Master Flutter & Dart for cross-platform development",
+          "Design beautiful UIs with widgets and animations",
+          "Integrate Firebase for authentication and databases",
+          "Work with APIs and handle JSON data",
+          "Implement state management with Provider",
+          "Use local storage solutions (SQLite & SharedPreferences)",
+          "Deploy apps to the Google Play Store"
+        ],
+        "requirements": [
+          "Basic programming knowledge is helpful but not required",
+          "A computer (Windows, macOS, or Linux)",
+          "Android Studio or VS Code installed"
+        ],
+        "syllabus": [
+          {
+            "week": "1-2",
+            "title": "Flutter & Dart Fundamentals",
+            "topics": [
+              "Introduction to Flutter & Dart",
+              "Widgets & Layouts",
+              "Basic UI Components"
+            ]
+          },
+          {
+            "week": "3-4",
+            "title": "UI/UX & Navigation",
+            "topics": [
+              "Advanced UI Design",
+              "Animations & Transitions",
+              "Navigation & Routing"
+            ]
+          },
+          {
+            "week": "5-6",
+            "title": "Backend & State Management",
+            "topics": [
+              "Firebase Integration",
+              "State Management with Provider",
+              "Local Storage Solutions"
+            ]
+          },
+          {
+            "week": "7-8",
+            "title": "Advanced Features & Deployment",
+            "topics": [
+              "API Integration",
+              "App Testing & Debugging",
+              "Play Store Deployment"
+            ]
+          }
+        ],
+        "projects": [
+          "Portfolio App",
+          "Chat Application",
+          "To-Do List with Local Storage",
+          "Expense Tracker with Charts"
+        ],
+        "feeStructure": {
+          "monthly": 9500,
+          "total": 19000,
+          "currency": "PKR",
+          "installments": true,
+          "installmentDetails": "Two monthly installments of 9,500 PKR",
+          "discountAvailable": true,
+          "discountDetails": "2,000 PKR discount on full payment (17,000 PKR total)"
+        },
+        "benefits": [
+          "Build real-world apps for your portfolio",
+          "Learn industry-standard tools and practices",
+          "Publish your own apps on the Play Store",
+          "Freelance and job opportunities in mobile development",
+          "Access to a community of developers"
+        ],
+        "careerSupport": {
+          "githubPortfolio": true,
+          "freelanceGuidance": true,
+          "resumeBuilding": true,
+          "interviewPreparation": true
+        }
+      },
+      {
+        "id": 4,
+        "title": "Graphic Designing – From Creativity to Career",
+        "instructor": "Graphic Design Experts",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "Design & Creative",
+        "level": "Beginner to Intermediate",
+        "duration": "2 Months",
+        "lessons": 32,
+        "students": 0,
+        "rating": 0,
+        "reviews": 0,
+        "price": 9500,
+        "discountPrice": 9000,
+        "language": "English/Urdu",
+        "certificate": true,
+        "thumbnail": "/content/courses/graphic-design.jpg",
+        "description": "Transform your creative passion into a professional career with our comprehensive Graphic Design course. Learn industry-standard tools and techniques to create stunning designs for digital and print media.",
+        "whatYouWillLearn": [
+          "Master Adobe Illustrator for vector design",
+          "Create professional designs with Canva",
+          "Develop branding kits and packaging designs",
+          "Design engaging social media content and ads",
+          "Learn photo manipulation techniques",
+          "Build a professional portfolio"
+        ],
+        "requirements": [
+          "Basic computer skills",
+          "Laptop with required software (trial versions acceptable)",
+          "Creative mindset and passion for design"
+        ],
+        "syllabus": [
+          {
+            "week": "1-2",
+            "title": "Adobe Illustrator & Design Fundamentals",
+            "topics": [
+              "Interface and essential tools",
+              "Vector graphics creation",
+              "Logo and icon design",
+              "Typography and layout principles"
+            ]
+          },
+          {
+            "week": "3-4",
+            "title": "Canva & Social Media Design",
+            "topics": [
+              "Canva Pro features",
+              "Social media post designs",
+              "Facebook/Instagram ad creation",
+              "YouTube thumbnail design"
+            ]
+          },
+          {
+            "week": "5-6",
+            "title": "Advanced Design Techniques",
+            "topics": [
+              "Photo manipulation",
+              "Branding kit development",
+              "Packaging design essentials",
+              "Print media design (flyers, brochures, cards)"
+            ]
+          },
+          {
+            "week": "7-8",
+            "title": "Portfolio & Freelancing",
+            "topics": [
+              "Resume building",
+              "Portfolio development",
+              "Fiverr profile setup",
+              "Freelance pricing and client management"
+            ]
+          }
+        ],
+        "bonusModules": [
+          "Passive income strategies for designers",
+          "Freelance business setup guidance",
+          "Industry insights and career opportunities"
+        ],
+        "feeStructure": {
+          "monthlyFee": 9500,
+          "totalFee": 19000,
+          "currency": "PKR",
+          "installments": true,
+          "installmentCount": 2,
+          "discountAvailable": true,
+          "discountAmount": 1000,
+          "discountedTotal": 18000,
+          "paymentDeadline": "5th of each month"
+        },
+        "classDetails": {
+          "schedule": "3 sessions per week (2 hours each)",
+          "classType": "Physical + Online",
+          "batchSize": "Limited to 12 students",
+          "nextIntake": "Contact for upcoming batch dates"
+        },
+        "careerSupport": [
+          "Portfolio reviews",
+          "Freelance project guidance",
+          "Job placement assistance",
+          "Industry networking opportunities"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Spoken English – Communication & Confidence Building",
+        "instructor": "SkillOrbit Language Experts",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "Language Learning",
+        "level": "All Levels",
+        "duration": "2 months",
+        "lessons": 32,
+        "students": 0,
+        "rating": 0.0,
+        "reviews": 0,
+        "price": 16000.00,
+        "discountPrice": 8000.00,
+        "language": "English/Urdu",
+        "certificate": true,
+        "thumbnail": "/content/courses/english.jpg",
+        "description": "Improve your English speaking, listening, reading, and writing skills with practical methods. This course focuses on boosting confidence, building vocabulary, and mastering communication for education, professional growth, and daily use.",
+        "whatYouWillLearn": [
+          "Master English Alphabet, Pronunciation & Grammar Basics",
+          "Expand Vocabulary & Learn Common Expressions",
+          "Develop Fluent Speaking & Communication Skills",
+          "Enhance Listening & Reading Comprehension",
+          "Improve Writing Skills for Various Purposes",
+          "Build Confidence in Group Discussions",
+          "Excel in Interviews & Presentations"
+        ],
+        "requirements": [
+          "Basic understanding of English is helpful but not required",
+          "Willingness to practice speaking",
+          "Commitment to attend classes regularly"
+        ],
+        "syllabus": [
+          {
+            "week": "1-2",
+            "title": "Foundation Building",
+            "topics": [
+              "English Alphabet & Sounds",
+              "Basic Grammar Rules",
+              "Common Phrases & Greetings"
+            ]
+          },
+          {
+            "week": "3-4",
+            "title": "Vocabulary & Speaking",
+            "topics": [
+              "Daily Use Vocabulary",
+              "Pronunciation Practice",
+              "Conversation Starters"
+            ]
+          },
+          {
+            "week": "5-6",
+            "title": "Advanced Communication",
+            "topics": [
+              "Listening Comprehension",
+              "Reading Strategies",
+              "Group Discussions"
+            ]
+          },
+          {
+            "week": "7-8",
+            "title": "Professional Development",
+            "topics": [
+              "Business Communication",
+              "Interview Preparation",
+              "Presentation Skills"
+            ]
+          }
+        ],
+        "feeStructure": {
+          "monthly": 8000,
+          "total": 16000,
+          "currency": "PKR",
+          "installments": true,
+          "installmentDetails": "Two monthly installments of 8,000 PKR"
+        },
+        "benefits": [
+          "Gain fluency and confidence in English communication",
+          "Improve academic and professional performance",
+          "Build a strong vocabulary and accurate pronunciation",
+          "Prepare for interviews, public speaking, and presentations",
+          "Learn practical English for freelancing, job market, and global communication"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Graphic Designing – From Creativity to Career",
+        "instructor": "Graphic Design Experts",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "Design & Creative",
+        "level": "Beginner to Advanced",
+        "duration": "2 months",
+        "lessons": 32,
+        "students": 0,
+        "rating": 0.0,
+        "reviews": 0,
+        "price": 9500.00,
+        "discountPrice": 9000.00,
+        "language": "English/Urdu",
+        "certificate": true,
+        "thumbnail": "/content/courses/graphic-design.jpg",
+        "classTimings": "Saturday & Sunday — 11:00 AM to 1:00 PM",
+        "description": "Transform your creative passion into a professional career with our comprehensive Graphic Design course. Learn industry-standard tools and techniques to create stunning designs for digital and print media.",
+        "whatYouWillLearn": [
+          "Master Adobe Illustrator for vector graphics",
+          "Create professional designs with Canva",
+          "Design engaging social media content and ads",
+          "Develop branding kits and packaging designs",
+          "Build a professional portfolio",
+          "Start freelancing on platforms like Fiverr"
+        ],
+        "requirements": [
+          "Basic computer skills",
+          "Laptop with required software (trial versions acceptable)",
+          "Creative mindset and passion for design"
+        ],
+        "keyModules": [
+          "Adobe Illustrator – Vector Design Essentials",
+          "Canva for Quick & Effective Designs",
+          "Adobe Suite Overview & Professional Workflow",
+          "Social Media Post & Meta Ads Design",
+          "Print & Digital Media Design (Flyers, Brochures, Cards)",
+          "Photo Manipulation Techniques",
+          "YouTube Thumbnail & Company Profile Design",
+          "Branding Kit & Packaging Design Essentials",
+          "Resume & Professional Portfolio Development",
+          "Fiverr Basics & Freelance Growth Strategies"
+        ],
+        "syllabus": [
+          {
+            "month": "1",
+            "title": "Foundations & Tools",
+            "topics": [
+              "Introduction to Graphic Design",
+              "Adobe Illustrator Basics",
+              "Canva for Beginners",
+              "Design Principles & Color Theory"
+            ]
+          },
+          {
+            "month": "2",
+            "title": "Advanced Design & Career",
+            "topics": [
+              "Professional Branding & Identity",
+              "Social Media & Marketing Materials",
+              "Portfolio Development",
+              "Freelancing & Career Growth"
+            ]
+          }
+        ],
+        "bonusContent": {
+          "passiveIncome": "Passive Income Sources for Designers",
+          "resources": "Exclusive design resources and templates",
+          "community": "Access to private design community"
+        },
+        "feeStructure": {
+          "monthly": 9500,
+          "total": 19000,
+          "currency": "PKR",
+          "installments": true,
+          "installmentDetails": "Two monthly installments of 9,500 PKR",
+          "discountAvailable": true,
+          "discountDetails": "1,000 PKR discount on full payment (18,000 PKR total)"
+        },
+        "benefits": [
+          "Create professional, market-ready designs for social media, ads, and branding",
+          "Build a portfolio that attracts clients and employers",
+          "Learn freelancing strategies with real-time project practice",
+          "Develop both creative and technical skills for long-term growth",
+          "Affordable, practical training that prepares you for freelancing and industry work"
+        ],
+        "careerSupport": {
+          "portfolioReview": true,
+          "freelanceGuidance": true,
+          "jobPlacementAssistance": true,
+          "certificateOfCompletion": true
+        },
+        "classType": "Physical + Online",
+        "nextIntake": "Contact for upcoming batch dates",
+        "classSize": "Limited to 12 students per batch"
+      },
+      {
+        "id": 7,
+        "title": "IELTS Preparation – Unlock Global Opportunities",
+        "instructor": "IELTS Experts",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "Language & Test Preparation",
+        "level": "All Levels",
+        "duration": "2 Months",
+        "schedule": "Monday–Thursday, 3:00 PM to 5:00 PM",
+        "classType": "Physical Classes",
+        "description": "This course equips students with practical strategies and personalized training to achieve their target band score in IELTS Academic or General. Learn the proven methods to excel in Listening, Reading, Writing, and Speaking with real test practices and expert guidance.",
+        "keyModules": [
+          {
+            "month": "1",
+            "title": "Listening Mastery",
+            "topics": [
+              "Understanding different English accents",
+              "Effective note-taking strategies",
+              "Tackling all question types",
+              "Practice with real test materials"
+            ]
+          },
+          {
+            "month": "2",
+            "title": "Reading Excellence",
+            "topics": [
+              "Skimming and scanning techniques",
+              "True/False/Not Given questions",
+              "Matching headings and information",
+              "Time management strategies"
+            ]
+          },
+          {
+            "month": "3",
+            "title": "Writing Skills",
+            "topics": [
+              "Essay writing (Task 2)",
+              "Letter/Report writing (Task 1)",
+              "Structuring responses effectively",
+              "Academic vs. General Training differences"
+            ]
+          },
+          {
+            "month": "4",
+            "title": "Speaking Confidence",
+            "topics": [
+              "Cue card strategies",
+              "Fluency and coherence",
+              "Vocabulary enhancement",
+              "Mock interviews with feedback"
+            ]
+          }
+        ],
+        "benefits": [
+          "Master all 4 skills (Listening, Reading, Writing, Speaking) with expert strategies",
+          "Daily practice with real exam-style materials",
+          "Personalized feedback to improve weak areas",
+          "Build fluency and confidence for interviews and global opportunities",
+          "Achieve the required band score for admissions, jobs, and immigration"
+        ],
+        "feeStructure": {
+          "totalFee": 22000,
+          "currency": "PKR",
+          "installments": false,
+          "discountAvailable": false,
+          "paymentDeadline": "Before course commencement"
+        },
+        "certification": "Certificate of Completion upon successful course completion",
+        "requirements": [
+          "Basic understanding of English",
+          "Dedication to daily practice",
+          "Commitment to attend all classes"
+        ],
+        "additionalInfo": {
+          "materialsIncluded": [
+            "Official practice tests",
+            "Study materials",
+            "Mock test series"
+          ],
+          "classSize": "Limited to 15 students per batch",
+          "nextIntake": "Contact for upcoming batch dates"
+        }
+      },
+      {
+        "id": 8,
+        "title": "E-Commerce Mastery",
+        "instructor": "E-Commerce Experts",
+        "instructorImage": "/content/abdulwaheed.jpg",
+        "category": "E-Commerce",
+        "level": "Beginner to Advanced",
+        "duration": "4-6 months",
+        "lessons": 48,
+        "students": 0,
+        "rating": 0.0,
+        "reviews": 0,
+        "price": 60000.00,
+        "discountPrice": 50000.00,
+        "language": "English/Urdu",
+        "certificate": true,
+        "thumbnail": "/content/courses/ecommerce.jpg",
+        "description": "Learn practical E-Commerce skills in a simple, structured, and affordable way — designed to build your confidence, help you earn online, and unlock opportunities in both local and global markets.",
+        "classTimings": "Saturday & Sunday — 05:15 PM to 07:45 PM",
+        "whatYouWillLearn": [
+          "Master E-Commerce fundamentals and online business models",
+          "Product research using Daraz, TikTok, and eBay",
+          "Professional store setup on multiple platforms",
+          "Digital marketing and advertising strategies",
+          "Order fulfillment and customer service",
+          "Analytics and business scaling techniques"
+        ],
+        "requirements": [
+          "Basic computer and internet skills",
+          "Smartphone with internet access",
+          "No prior E-Commerce experience needed"
+        ],
+        "syllabus": [
+          {
+            "month": "1-2",
+            "title": "E-Commerce Foundations",
+            "topics": [
+              "Introduction to E-Commerce",
+              "Market & Product Research",
+              "Business Models & Strategies"
+            ]
+          },
+          {
+            "month": "3-4",
+            "title": "Platform Mastery",
+            "topics": [
+              "Daraz Seller Account & Store Setup",
+              "TikTok Shop Configuration",
+              "eBay Store Creation"
+            ]
+          },
+          {
+            "month": "4-5",
+            "title": "Digital Marketing & Sales",
+            "topics": [
+              "Content Creation with Canva/CapCut",
+              "TikTok & Meta Ads",
+              "Influencer Marketing"
+            ]
+          },
+          {
+            "month": "5-6",
+            "title": "Advanced Strategies & Scaling",
+            "topics": [
+              "Shopify Store Development",
+              "SEO & Digital Analytics",
+              "Business Scaling & Automation"
+            ]
+          }
+        ],
+        "feeStructure": {
+          "monthly": 10000,
+          "total": 50000,
+          "currency": "PKR",
+          "installments": true,
+          "installmentDetails": "Five monthly installments of 10,000 PKR",
+          "discountAvailable": true,
+          "discountDetails": "10,000 PKR discount on full payment (50,000 PKR total)"
+        },
+        "benefits": [
+          "Start earning while learning with practical skills",
+          "Access to multiple E-Commerce platforms",
+          "Hands-on experience with real-world projects",
+          "Learn from industry experts",
+          "Career opportunities in freelancing and entrepreneurship",
+          "Build a professional portfolio"
+        ],
+        "finalProject": {
+          "title": "Professional E-Commerce Store",
+          "description": "Build and launch your own fully functional E-Commerce store with a complete marketing strategy.",
+          "deliverables": [
+            "Live E-Commerce store",
+            "Marketing campaign",
+            "Business plan",
+            "Sales strategy"
+          ]
+        }
+      }
+    
+    
+  ]
+}
